@@ -141,6 +141,8 @@ O navegador será aberto automaticamente usando a porta localhost:3000
   
 # CONFIRA O RESULTADO 
 
+https://meus-conteudos-favoritos-ddqym43nw-flavianafxt.vercel.app/
+
 
 
 
