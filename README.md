@@ -42,28 +42,38 @@ Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, fo
 
 ## 🧠 Contexto
 
-Projeto React desenvolvido durante o curso Frontend da Reprograma, em que falamos de coisas que gostamos, utilizado a componetização e uso de props para melhor aprender o que foi visto em aula.
+Projeto React desenvolvido durante o curso Frontend da Reprograma, em que falamos de coisas que gostamos, utilizando a componetização e uso de props para melhor aprender o que foi visto em aula.
 
----- IMAGEM SITE ----
+![image](https://github.com/FlavianaFXT/Meus-conteudos-favoritos/assets/113718720/fdf1accc-5905-4632-9b24-d3e0554b28d3)
+![image](https://github.com/FlavianaFXT/Meus-conteudos-favoritos/assets/113718720/ee70b20e-ec57-4834-8ac8-0282eeb5fd43)
+![image](https://github.com/FlavianaFXT/Meus-conteudos-favoritos/assets/113718720/84acc679-38a3-40df-ad00-0f8273184a99)
 
 ## 🧠 Estrutura do projeto
 
 ### Componentes maiores
 ``componentes que usam os componentes menores recebendos os conteúdos por props``
+
   📄 Bio
+  
   📄 Cards
 
 ### Componentes menores
-``somente o esqueleto, os conteúdos serão inclusos por props``
+``somente o esqueleto, os conteúdos são inclusos por props``
 
   ➡️ Title
+  
   ➡️ Subtitle
+  
   ➡️ Text
+  
   ➡️ Image
+  
   ➡️ Header
+  
   ➡️ Footer
 
----IMAGENS ESTRUTURA DE PASTAS---
+![image](https://github.com/FlavianaFXT/Meus-conteudos-favoritos/assets/113718720/22ebd530-8397-4c53-ab6c-5f0e10887c37)
+![image](https://github.com/FlavianaFXT/Meus-conteudos-favoritos/assets/113718720/ed2b090b-685a-40f9-8a21-8fa24f62536a)
 
 # TECNOLOGIAS UTILIZADAS
 
